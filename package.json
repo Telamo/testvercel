@@ -4,7 +4,7 @@
   "description": "capstone_fiverr",
   "main": "index.js",
   "engines": {
-    "node": "19.3.0"
+    "node": "18.x"
   },
   "repository": "https://github.com/Telamo/capstone_fiverr",
   "author": "telamo",
